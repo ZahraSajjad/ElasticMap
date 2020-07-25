@@ -1,0 +1,20 @@
+Package: ElasticMaps
+Type: Package
+Title: Elastic Map Fitting
+Version: 0.1.0
+Author: Zahra Rezaei
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+imports: dplyr, 
+         irlba, 
+         plotly, 
+         pracma, 
+         plot3D, 
+         RSpectra, 
+         scales
+         viridis, 
+RoxygenNote: 7.1.0
